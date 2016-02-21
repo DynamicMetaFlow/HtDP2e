@@ -8,4 +8,4 @@
                    -40 150
                    (rectangle 150 40 'solid 'lightblue))
    0 -10
-   (rotate 90 (rectangle 150 20 'solid 'black)))
+   (rotate 90 (rectangle 150 20 'solid 'gray)))

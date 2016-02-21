@@ -11,9 +11,9 @@ Exercise 6. Use the picture primitives to create the image of a simple automobil
     "left" "bottom"
      (underlay/align/offset
       "left" "top"
-      (rectangle 200 100 "solid" "red")
+      (rectangle 200 100 "solid" "darkgreen")
       0 -50
-      (ellipse 200 100 "solid" "blue"))
+      (ellipse 200 100 "solid" "yellow"))
     0 50
     (circle 30 "solid" "black"))
    0 0
